@@ -80,7 +80,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contributing
 
 Contributions are welcome! Feel free to open issues and pull requests for improvements or bug fixes.
-
-## Contact
-
-For questions or suggestions, feel free to contact at `your-email@domain.com`.
